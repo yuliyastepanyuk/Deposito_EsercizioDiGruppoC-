@@ -17,4 +17,6 @@ Le estensioni della classe base sono state realizzate individualmente:
 
 Ogni classe rappresenta un tipo di corso con le sue caratteristiche specifiche, seguendo l’impostazione comune fornita dalla classe base.
 
+Il menù dell'applicazione è attualmente in fase di sviluppo, anche questo realizzato attraverso un ragionamento comune, con l'obiettivo di fornire un'interfaccia semplice e funzionale per l'interazione con i corsi.
+
 ---
