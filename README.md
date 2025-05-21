@@ -12,8 +12,8 @@ La **classe base** è stata sviluppata **collaborativamente**, frutto di un conf
 
 Le estensioni della classe base sono state realizzate individualmente:
 
-* La classe **CorsoMusica** e la classe **CorsoPittura** sono state scritte da **Stepanyuk**.
-* La classe **ClasseDanza** è stata scritta da **Rottura**.
+* La classe **CorsoMusica** 🎵 e la classe **CorsoPittura** 🎨 sono state scritte da **Stepanyuk**.
+* La classe **ClasseDanza** 🩰 è stata scritta da **Rottura**.
 
 Ogni classe rappresenta un tipo di corso con le sue caratteristiche specifiche, seguendo l’impostazione comune fornita dalla classe base.
 
