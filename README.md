@@ -17,6 +17,30 @@ Le estensioni della classe base sono state realizzate individualmente:
 
 Ogni classe rappresenta un tipo di corso con le sue caratteristiche specifiche, seguendo l’impostazione comune fornita dalla classe base.
 
-Il menù dell'applicazione è attualmente in fase di sviluppo, anche questo realizzato attraverso un ragionamento comune, con l'obiettivo di fornire un'interfaccia semplice e funzionale per l'interazione con i corsi.
+Ecco il paragrafo riscritto in uno stile più tecnico e adatto a una relazione di progetto o documentazione formale:
 
 ---
+
+Il menù dell'applicazione,completamente implementato, costituisce l'interfaccia principale per l'interazione con il sistema. La struttura del menù è stata inizialmente proposta dal componente **Rottura**, mentre gli altri due membri del gruppo hanno contribuito alla sua definizione e sviluppo attraverso un confronto collaborativo, con l'obiettivo di garantire semplicità d’uso e funzionalità adeguata alle esigenze dell’utente.
+
+Il menù, integrato nel metodo `main`, è progettato per essere interattivo e guidare l’utente nelle principali operazioni gestionali sui corsi. Le funzionalità offerte sono le seguenti:
+
+```
+[1] Aggiungi un corso di Musica  
+[2] Aggiungi un corso di Pittura  
+[3] Aggiungi un corso di Danza  
+[4] Aggiungi studente a un corso (tramite selezione per indice)  
+[5] Visualizza tutti i corsi  
+[6] Cerca corsi per nome docente  
+[7] Esegui metodo speciale di un corso (selezionato per indice)  
+[0] Esci
+```
+
+Nel corso dello sviluppo, in riferimento al **caso 6** (ricerca di corsi per nome del docente), il collega **Varchetta** ha suggerito l’introduzione di un metodo `equals` all’interno della classe base, al fine di evitare l’accesso diretto alle proprietà degli oggetti e rispettare i principi dell’incapsulamento. Tale suggerimento è stato accolto e verrà implementato in una successiva iterazione del progetto.
+
+---
+
+
+
+
+
