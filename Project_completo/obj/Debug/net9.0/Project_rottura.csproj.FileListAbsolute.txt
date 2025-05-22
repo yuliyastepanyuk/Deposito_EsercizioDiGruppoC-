@@ -1,0 +1,29 @@
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\Project_rottura\bin\Debug\net9.0\Project_rottura.exe
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\Project_rottura\bin\Debug\net9.0\Project_rottura.deps.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\Project_rottura\bin\Debug\net9.0\Project_rottura.runtimeconfig.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\Project_rottura\bin\Debug\net9.0\Project_rottura.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\Project_rottura\bin\Debug\net9.0\Project_rottura.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\Project_rottura\obj\Debug\net9.0\Project_rottura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\Project_rottura\obj\Debug\net9.0\Project_rottura.AssemblyInfoInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\Project_rottura\obj\Debug\net9.0\Project_rottura.AssemblyInfo.cs
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\Project_rottura\obj\Debug\net9.0\Project_rottura.csproj.CoreCompileInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\Project_rottura\obj\Debug\net9.0\Project_rottura.sourcelink.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\Project_rottura\obj\Debug\net9.0\Project_rottura.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\Project_rottura\obj\Debug\net9.0\refint\Project_rottura.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\Project_rottura\obj\Debug\net9.0\Project_rottura.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\Project_rottura\obj\Debug\net9.0\Project_rottura.genruntimeconfig.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\Project_rottura\obj\Debug\net9.0\ref\Project_rottura.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti gruppo\Ereditarietà\Project_rottura\bin\Debug\net9.0\Project_rottura.exe
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti gruppo\Ereditarietà\Project_rottura\bin\Debug\net9.0\Project_rottura.deps.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti gruppo\Ereditarietà\Project_rottura\bin\Debug\net9.0\Project_rottura.runtimeconfig.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti gruppo\Ereditarietà\Project_rottura\bin\Debug\net9.0\Project_rottura.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti gruppo\Ereditarietà\Project_rottura\bin\Debug\net9.0\Project_rottura.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti gruppo\Ereditarietà\Project_rottura\obj\Debug\net9.0\Project_rottura.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti gruppo\Ereditarietà\Project_rottura\obj\Debug\net9.0\Project_rottura.AssemblyInfoInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti gruppo\Ereditarietà\Project_rottura\obj\Debug\net9.0\Project_rottura.AssemblyInfo.cs
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti gruppo\Ereditarietà\Project_rottura\obj\Debug\net9.0\Project_rottura.csproj.CoreCompileInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti gruppo\Ereditarietà\Project_rottura\obj\Debug\net9.0\Project_rottura.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti gruppo\Ereditarietà\Project_rottura\obj\Debug\net9.0\refint\Project_rottura.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti gruppo\Ereditarietà\Project_rottura\obj\Debug\net9.0\Project_rottura.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti gruppo\Ereditarietà\Project_rottura\obj\Debug\net9.0\Project_rottura.genruntimeconfig.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti gruppo\Ereditarietà\Project_rottura\obj\Debug\net9.0\ref\Project_rottura.dll
