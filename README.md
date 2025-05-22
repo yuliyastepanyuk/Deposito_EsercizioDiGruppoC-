@@ -17,8 +17,6 @@ Le estensioni della classe base sono state realizzate individualmente:
 
 Ogni classe rappresenta un tipo di corso con le sue caratteristiche specifiche, seguendo l’impostazione comune fornita dalla classe base.
 
-Ecco il paragrafo riscritto in uno stile più tecnico e adatto a una relazione di progetto o documentazione formale:
-
 ---
 
 Il menù dell'applicazione,completamente implementato, costituisce l'interfaccia principale per l'interazione con il sistema. La struttura del menù è stata inizialmente proposta dal componente **Rottura**, mentre gli altri due membri del gruppo hanno contribuito alla sua definizione e sviluppo attraverso un confronto collaborativo, con l'obiettivo di garantire semplicità d’uso e funzionalità adeguata alle esigenze dell’utente.
