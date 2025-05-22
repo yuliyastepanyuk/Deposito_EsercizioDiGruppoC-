@@ -1,0 +1,5 @@
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\project_baseClass\obj\Debug\net9.0\project_baseClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\project_baseClass\obj\Debug\net9.0\project_baseClass.AssemblyInfoInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\project_baseClass\obj\Debug\net9.0\project_baseClass.AssemblyInfo.cs
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\project_baseClass\obj\Debug\net9.0\project_baseClass.csproj.CoreCompileInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\esercizioDiGruppo\Deposito_EsercizioDiGruppoC-\project_baseClass\obj\Debug\net9.0\project_baseClass.sourcelink.json

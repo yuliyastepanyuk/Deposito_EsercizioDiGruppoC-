@@ -8,19 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {}
+    "C:\\Users\\Yuliya\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Progetti gruppo\\Ereditarietà\\Project_rottura\\Project_rottura.csproj",
+      "projectUniqueName": "C:\\Users\\Yuliya\\Desktop\\Programmazione\\C#\\esercizioDiGruppo\\Deposito_EsercizioDiGruppoC-\\Project_rottura\\Project_rottura.csproj",
       "projectName": "Project_rottura",
-      "projectPath": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Progetti gruppo\\Ereditarietà\\Project_rottura\\Project_rottura.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Progetti gruppo\\Ereditarietà\\Project_rottura\\obj\\",
+      "projectPath": "C:\\Users\\Yuliya\\Desktop\\Programmazione\\C#\\esercizioDiGruppo\\Deposito_EsercizioDiGruppoC-\\Project_rottura\\Project_rottura.csproj",
+      "packagesPath": "C:\\Users\\Yuliya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yuliya\\Desktop\\Programmazione\\C#\\esercizioDiGruppo\\Deposito_EsercizioDiGruppoC-\\Project_rottura\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yuliya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

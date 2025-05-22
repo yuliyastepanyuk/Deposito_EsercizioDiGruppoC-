@@ -75,8 +75,18 @@ class Program
                     break;
 
                 case 4:
-                    Console.WriteLine("");
-
+                    Console.WriteLine("A quale corso vuoi aggiungere uno studente?");
+                    for (int i = 0; i < corsi.Count; i++)
+                    {
+                        Console.WriteLine($"[{i}] {corsi[i].NomeCorso}");
+                    }
+                    string sceltaCorso = Console.ReadLine();
+                    int indexCorso = int.Parse(sceltaCorso);
+                    Console.WriteLine("Aggiungi il nome dello studente.");
+                    string nomeStudente = Console.ReadLine();
+                    corsi[indexCorso].AggiungiStudente(nomeStudente);
+                    Console.WriteLine($"Studente {nomeStudente} aggiunto al corso {corsi[indexCorso].NomeCorso}");
+                    break;
                 case 5:
                     Console.WriteLine("I corsi sono:");
                     foreach (Corso corso in corsi)

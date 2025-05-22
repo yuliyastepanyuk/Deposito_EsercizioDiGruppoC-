@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yuliya\\Desktop\\Programmazione\\C#\\esercizioDiGruppo\\project_baseClass\\project_baseClass.csproj",
+      "projectUniqueName": "C:\\Users\\Yuliya\\Desktop\\Programmazione\\C#\\esercizioDiGruppo\\Deposito_EsercizioDiGruppoC-\\project_baseClass\\project_baseClass.csproj",
       "projectName": "project_baseClass",
-      "projectPath": "C:\\Users\\Yuliya\\Desktop\\Programmazione\\C#\\esercizioDiGruppo\\project_baseClass\\project_baseClass.csproj",
+      "projectPath": "C:\\Users\\Yuliya\\Desktop\\Programmazione\\C#\\esercizioDiGruppo\\Deposito_EsercizioDiGruppoC-\\project_baseClass\\project_baseClass.csproj",
       "packagesPath": "C:\\Users\\Yuliya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yuliya\\Desktop\\Programmazione\\C#\\esercizioDiGruppo\\project_baseClass\\obj\\",
+      "outputPath": "C:\\Users\\Yuliya\\Desktop\\Programmazione\\C#\\esercizioDiGruppo\\Deposito_EsercizioDiGruppoC-\\project_baseClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
